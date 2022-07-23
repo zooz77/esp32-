@@ -27,6 +27,6 @@ esp32
 ثم     install     لتنزيل  package 
 ثم  close    بعد انتهاء  التنزيل   ونغلق اوردينو  ونفتحه من   جديد
 
-
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 مصادر  يمكن  الاستفادة منها   
 https://youtu.be/h8iHRy48a8I
