@@ -3,14 +3,17 @@
 1- اسرع 10 مرات
 2- تحتوي على  بلوتوث و وايفاي
 3-أصغر حجما 
-4-pin multy function
-5- 16  bwm  chanal
-6-digital   و analog    عدد 12
+4- يوجد   pin multy function
+5-   يوجد  16  bwm  chanal
+6-  يوجد  12  digital   و analog    
+عدد 12
   طريقة  التشغيل  :
    1-ندخل  الموقع  Boards manager
+
 ننسخ  link  
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
 2-  نفتح      Arduino software   
 3- نفتح  file   ثم  perferences
 4- نعمل past  لكود  من   ل  link     
